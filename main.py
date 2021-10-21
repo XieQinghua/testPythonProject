@@ -11,7 +11,7 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print_hi('测试下，大王叫我来巡山')
     for i in range(1, 5):
         for j in range(1, 5):
             for k in range(1, 5):
